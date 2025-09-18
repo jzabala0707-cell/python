@@ -1,0 +1,12 @@
+# Algoritmo para multiplicar 3 números ingresados por el usuario
+
+# Entrada de datos
+num1 = float(input("Ingrese el primer número: "))
+num2 = float(input("Ingrese el segundo número: "))
+num3 = float(input("Ingrese el tercer número: "))
+
+# Proceso
+resultado = num1 * num2 * num3
+
+# Salida
+print("El resultado de la multiplicación es:", resultado)

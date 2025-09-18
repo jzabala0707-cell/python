@@ -1,0 +1,3 @@
+productos = {"manzana": 1.5, "pera": 2.0, "plátano": 1.2}
+lista_tuplas = list(productos.items())
+print("Lista de tuplas:", lista_tuplas)
